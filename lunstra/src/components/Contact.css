@@ -1,0 +1,11 @@
+.contact {
+  background: #1e293b;
+  color: #e2e8f0;
+}
+
+.contact-info {
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 1.2rem;
+}
